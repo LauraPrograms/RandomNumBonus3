@@ -1,0 +1,7 @@
+C:\Users\Mrs Huie\source\repos\Bonus3RandomNumGen\Bonus3RandomNumGen\bin\Debug\Bonus3RandomNumGen.exe.config
+C:\Users\Mrs Huie\source\repos\Bonus3RandomNumGen\Bonus3RandomNumGen\bin\Debug\Bonus3RandomNumGen.exe
+C:\Users\Mrs Huie\source\repos\Bonus3RandomNumGen\Bonus3RandomNumGen\bin\Debug\Bonus3RandomNumGen.pdb
+C:\Users\Mrs Huie\source\repos\Bonus3RandomNumGen\Bonus3RandomNumGen\obj\Debug\Bonus3RandomNumGen.csprojAssemblyReference.cache
+C:\Users\Mrs Huie\source\repos\Bonus3RandomNumGen\Bonus3RandomNumGen\obj\Debug\Bonus3RandomNumGen.csproj.CoreCompileInputs.cache
+C:\Users\Mrs Huie\source\repos\Bonus3RandomNumGen\Bonus3RandomNumGen\obj\Debug\Bonus3RandomNumGen.exe
+C:\Users\Mrs Huie\source\repos\Bonus3RandomNumGen\Bonus3RandomNumGen\obj\Debug\Bonus3RandomNumGen.pdb
